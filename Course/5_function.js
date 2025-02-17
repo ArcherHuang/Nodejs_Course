@@ -24,5 +24,5 @@ hi();
 hello('World', 'Archer');
 helloJson({
     aaa: 'World',
-    bbb: 'Archer'
+    bbb: 'Archer',
 });
