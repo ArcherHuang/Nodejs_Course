@@ -3,6 +3,7 @@
 // Output:
 //      非常好
 //      非常非常好
+//      result: Yes
 
 const score = 90;
 
@@ -19,4 +20,8 @@ const score2 = 90;
 
 if (score2 >= 90 && name === 'Archer') {
     console.log('非常非常好');
-} 
+}
+
+const flag = true;
+result = flag ? 'Yes' : 'No';
+console.log(`result: ${result}`);
