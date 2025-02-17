@@ -1,5 +1,5 @@
 // 執行
-//      node 6_import.mjs 
+//      node 60_import.mjs 
 // Output:
 //      checkResult: {"result":true,"message":"Hello World, Archer"}
 
