@@ -1,9 +1,9 @@
 // 執行
-//      node 7_import.mjs 
+//      node 8_import.mjs 
 // Output:
 //      checkResult: {"result":true,"message":"Hello World, Archer"}
 
-import rule from './7_rule.mjs';
+import rule from './8_rule.mjs';
 
 const checkResult = rule.validator({
     aaa: 'World',
